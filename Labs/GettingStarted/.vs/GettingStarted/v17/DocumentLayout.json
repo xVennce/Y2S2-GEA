@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\S23140264\\Desktop\\github\\Y2S2-GEA\\Labs\\GettingStarted\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55A6C5A9-EC2F-43F7-8886-55B6E244CE51}|GettingStarted.vcxproj|C:\\Users\\S23140264\\Desktop\\github\\Y2S2-GEA\\Labs\\GettingStarted\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55A6C5A9-EC2F-43F7-8886-55B6E244CE51}|GettingStarted.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55A6C5A9-EC2F-43F7-8886-55B6E244CE51}|GettingStarted.vcxproj|C:\\Users\\S23140264\\Desktop\\github\\Y2S2-GEA\\Labs\\GettingStarted\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{55A6C5A9-EC2F-43F7-8886-55B6E244CE51}|GettingStarted.vcxproj|solutionrelative:GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\S23140264\\Desktop\\github\\Y2S2-GEA\\Labs\\GettingStarted\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\S23140264\\Desktop\\github\\Y2S2-GEA\\Labs\\GettingStarted\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T11:49:33.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GameEngine.cpp",
               "DocumentMoniker": "C:\\Users\\S23140264\\Desktop\\github\\Y2S2-GEA\\Labs\\GettingStarted\\GameEngine.cpp",
               "RelativeDocumentMoniker": "GameEngine.cpp",
               "ToolTip": "C:\\Users\\S23140264\\Desktop\\github\\Y2S2-GEA\\Labs\\GettingStarted\\GameEngine.cpp",
               "RelativeToolTip": "GameEngine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv3sAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-28T11:19:58.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameEngine.h",
               "DocumentMoniker": "C:\\Users\\S23140264\\Desktop\\github\\Y2S2-GEA\\Labs\\GettingStarted\\GameEngine.h",
               "RelativeDocumentMoniker": "GameEngine.h",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "GameEngine.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-28T11:02:26.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T11:02:26.425Z"
             }
           ]
         }
